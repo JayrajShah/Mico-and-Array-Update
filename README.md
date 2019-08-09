@@ -1,1 +1,1 @@
-# Mico-and-Array-Update
+# Micro-and-Array-Update
